@@ -19,6 +19,7 @@ Currently, I am actively involved in Testnets such as
 <br>
 
 <h2> To date, I have set up more than 50 Testnet nodes. </h2>
+
 **Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).**
 
 <div align="center">
@@ -26,8 +27,15 @@ Currently, I am actively involved in Testnets such as
 ## Projects
 </div>
 
-I am also developing projects like **Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram), and Engram tx spam Dapp.** <br>
-My favorite repositories are Github Achievements, Evm-explorer, Connect-switch-wallet, tg-auto-message, tg-website-checker, celestia payforblob ui, Using-VPS-servers-as-VPN.
+**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram), and Engram tx spam Dapp.** <br>
+> https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot http://161.35.215.53:3000/
+<div align="center">
+  
+## My Favorite Repos
+
+</div>
+
+**[Github Achievements](https://github.com/enzifiri/GitHub-Achievements-TR), [Evm-explorer](https://github.com/enzifiri/evm-explorer),[Connect-switch-wallet](https://github.com/enzifiri/connect-switch-wallet), [TG-auto-message](https://github.com/enzifiri/tg-auto-message), [TG-website-checker](https://github.com/enzifiri/TG-Website-Checker), [Celestia Payforblob UI](https://github.com/enzifiri/enzifiri-pfb-ui), [Using-VPS-servers-as-VPN.](https://github.com/enzifiri/Using-VPS-servers-as-VPN)**
 
 
 <div align="center">
