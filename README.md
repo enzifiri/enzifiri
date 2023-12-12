@@ -1,16 +1,39 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**enzifiri/enzifiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's get to know each other first!
+</div>
 
-Here are some ideas to get you started:
+Hey, I'm Enzifiri. For the past three years, I have been involved in the cryptocurrency sector, with a particular focus on **Testnet networks over the last two years.** During this time, I have enhanced my software skills, **developing Telegram bots, automations, and simple dApps,** which I have shared with others. My preferred programming **languages are JavaScript, Solidity, and Python.**
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nodes
+</div>
+
+For my Nodes&projects, I use server providers like **Hetzner and DigitalOcean**, selecting based on location and hardware needs, and conducting daily checks. <br>
+Additionally, I use **Grafana for monitoring on each server and rely on Telegram bots to inform me of any issues**. <br>
+Currently, I am actively involved in Testnets such as <br>
+Dymension Testnet Validator, Ar.io, Engram, Relayz, and Muon Network (Mainnet). 
+<br>
+To date, I have set up more than 50 Testnet nodes.
+These include significant projects such as Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).
+<div align="center">
+
+## Projects
+</div>
+
+I am also developing projects like **Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram), and Engram tx spam Dapp.** <br>
+My favorite repositories are Github Achievements, Evm-explorer, Connect-switch-wallet, tg-auto-message, tg-website-checker, celestia payforblob ui, Using-VPS-servers-as-VPN.
+##
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=enzifiri&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=enzifiri&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzifiri&show_icons=true" />
+</picture>
+</div>
