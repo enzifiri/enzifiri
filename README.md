@@ -25,18 +25,12 @@ Currently, I am actively involved in Testnets such as
 <div align="center">
 
 ## Projects
-</div>
+
 
 **Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram), and Engram tx spam Dapp.** <br>
-> https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot http://161.35.215.53:3000/
-<div align="center">
-  
-## My Favorite Repos
+https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot http://161.35.215.53:3000/
 
 </div>
-
-**[Github Achievements](https://github.com/enzifiri/GitHub-Achievements-TR), [Evm-explorer](https://github.com/enzifiri/evm-explorer),[Connect-switch-wallet](https://github.com/enzifiri/connect-switch-wallet), [TG-auto-message](https://github.com/enzifiri/tg-auto-message), [TG-website-checker](https://github.com/enzifiri/TG-Website-Checker), [Celestia Payforblob UI](https://github.com/enzifiri/enzifiri-pfb-ui), [Using-VPS-servers-as-VPN.](https://github.com/enzifiri/Using-VPS-servers-as-VPN)**
-
 
 <div align="center">
 <picture>
