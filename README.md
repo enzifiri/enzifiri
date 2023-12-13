@@ -18,7 +18,11 @@ Currently, I am actively involved in Testnets such as
 **Dymension Testnet Validator, Ar.io, Engram, Relayz, and Muon Network (Mainnet).**
 <br>
 
+<div align="center">
+  
 <h2> To date, I have set up more than 50 Testnet nodes. </h2>
+
+</div>
 
 **Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).**
 
