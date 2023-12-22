@@ -31,8 +31,8 @@ Currently, I am actively involved in Testnets such as
 ## Projects
 
 
-**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram), and Engram tx spam Dapp.** <br>
-https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot http://161.35.215.53:3000/
+**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram)** <br>
+https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot
 
 </div>
 
