@@ -15,7 +15,7 @@ For my Nodes&projects, I use server providers like **Hetzner and DigitalOcean**,
 Additionally, I use **Grafana for monitoring on each server and rely on Telegram bots to inform me of any issues**
 
 Currently, I am actively involved in Testnets such as
-[Dymension Active Testnet Validator](https://dymension.explorers.guru/validator/dymvaloper1hj4s4qakul9gn3sz2mntcn5xu22ndg06ssr87j), Ar.io,[Mangata AVS](https://goerli.eigenlayer.xyz/operator/0x3438d3D39aD5820E51A69C93De6bb2f2fd726dAe)
+[Dymension Active Testnet Validator](https://dymension.explorers.guru/validator/dymvaloper1hj4s4qakul9gn3sz2mntcn5xu22ndg06ssr87j), [Ar.io](https://rollape.com.tr/ar-io/healthcheck) ,[Mangata AVS](https://goerli.eigenlayer.xyz/operator/0x3438d3D39aD5820E51A69C93De6bb2f2fd726dAe)
 
 <br>
 
