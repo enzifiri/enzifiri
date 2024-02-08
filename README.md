@@ -15,7 +15,7 @@ For my Nodes&projects, I use server providers like **Hetzner and DigitalOcean**,
 Additionally, I use **Grafana for monitoring on each server and rely on Telegram bots to inform me of any issues**
 
 Currently, I am actively involved in Testnets such as
-**[Dymension Active Testnet Validator](https://dymension.explorers.guru/validator/dymvaloper1hj4s4qakul9gn3sz2mntcn5xu22ndg06ssr87j), Ar.io, Engram, Relayz, and Muon Network (Mainnet).**
+**[Dymension Active Testnet Validator](https://dymension.explorers.guru/validator/dymvaloper1hj4s4qakul9gn3sz2mntcn5xu22ndg06ssr87j), Ar.io, **
 <br>
 
 <div align="center">
@@ -24,11 +24,11 @@ Currently, I am actively involved in Testnets such as
 
 </div>
 
-**Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).**
+**Dymension (Froopyland Active Validator) Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension RollAPP, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).**
 
 <div align="center">
 
-## Projects
+## My Projects (dApp & Explorer & Bot)
 
 
 **Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram)** <br>
