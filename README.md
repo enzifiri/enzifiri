@@ -32,8 +32,8 @@ Currently, I am actively involved in Testnets such as
 ## My Projects (dApp & Explorer & Bot)
 
 
-**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN), FroopyLand Notification Bot (Telegram)** <br>
-https://rollape.quest/ https://froopyland.online/ https://t.me/froopyland_bot
+**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN),Ar.io Gateway Notification Bot (Telegram), FroopyLand Notification Bot (Telegram)** <br>
+https://rollape.quest/ https://froopyland.online/  https://t.me/arioland_bot https://t.me/froopyland_bot
 
 </div>
 
