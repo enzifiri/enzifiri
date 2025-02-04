@@ -14,10 +14,14 @@ Hey, I'm Enzifiri.For the past three years, I have been involved in the cryptocu
 For my Nodes&projects, I use server providers like **Hetzner and DigitalOcean**, selecting based on location and hardware needs, and conducting daily checks. <br>
 Additionally, I use **Grafana for monitoring on each server and rely on Telegram bots to inform me of any issues**
 
-Currently, I am actively involved in Testnets such as
-[Dymension Active Testnet Validator](https://froopyland.explorers.guru/validator/dymvaloper1hj4s4qakul9gn3sz2mntcn5xu22ndg06ssr87j), [Ar.io](https://rollape.com.tr/ar-io/healthcheck)
+<div align="center">
+  
+## MAINNET VALIDATOR
 
-<br>
+[Dymension Mainnet Validator](https://dymension.explorers.guru/validator/dymvaloper1ngrdd47ngyfewld7djqs5p8xvas8znnpxv44hh) <br>
+[Ario Gateway Node](https://enzifiri.com/ar-io/healthcheck)
+
+</div>
 
 <div align="center">
   
@@ -33,7 +37,7 @@ Currently, I am actively involved in Testnets such as
 
 
 **Dymension RollAPP, FroopyLand Explorer (EVM CHAIN),Ar.io Gateway Notification Bot (Telegram), FroopyLand Notification Bot (Telegram)** <br>
-https://rollape.quest/ https://froopyland.online/  https://t.me/arioland_bot https://t.me/froopyland_bot
+https://rollapequest.com/ https://froopyland.online/  https://t.me/arioland_bot https://t.me/froopyland_bot
 
 </div>
 
