@@ -1,45 +1,68 @@
 <div align="center">
+  
+# 👨‍💻Enzifiri | Blockchain Developer & Validator
 
-## Let's get to know each other first!
+
+  <img src="https://img.shields.io/badge/Experience-3+_Years-blue?style=for-the-badge&logo=ethereum" alt="Experience">
+  <img src="https://img.shields.io/badge/Testnet_Nodes-50+-green?style=for-the-badge&logo=serverfault" alt="Testnet Nodes">
+  <img src="https://img.shields.io/badge/Mainnet_Validator-2-orange?style=for-the-badge&logo=validator" alt="Mainnet Validator">
 </div>
 
-Hey, I'm Enzifiri.For the past three years, I have been involved in the cryptocurrency sector, with a particular focus on **Testnet networks over the last two years.** During this time, I have enhanced my software skills, **developing Telegram bots, automations, and simple dApps,** which I have shared with others. My preferred programming **languages are JavaScript, Solidity, and Python.**
+## 🚀 About Me
 
-<div align="center">
+Blockchain enthusiast and developer with **3+ years of experience** in the cryptocurrency sector, specializing in **Testnet networks** for the past two years. I develop **Telegram bots, automation tools, and decentralized applications (dApps)** to enhance blockchain ecosystem accessibility. Currently working on a P2E (Play-to-Earn) game on Dymension.
 
-## Nodes
+| Project | Type | Description | Link |
+|---------|------|-------------|------|
+| RollAPP Quest | dApp | P2E Game On Dymension | [rollapequest.com](https://rollapequest.com/) |
 
-</div>
+## 💻 Technical Skills
 
-For my Nodes&projects, I use server providers like **Hetzner and DigitalOcean**, selecting based on location and hardware needs, and conducting daily checks. <br>
-Additionally, I use **Grafana for monitoring on each server and rely on Telegram bots to inform me of any issues**
+- **Languages**: JavaScript, Solidity, Python
+- **Blockchain Networks**: Cosmos SDK, Ethereum, Sui, Arweave, Solana
+- **DevOps**: Node deployment, Server management, Monitoring systems
+- **Tools**: Grafana, Telegram API, Web3 frameworks
+
+## 🛠️ Infrastructure Management
+
+I maintain high-performance blockchain nodes on premium infrastructure:
+- **Server Providers**: Hetzner and Netcup (location-optimized deployments)
+- **Monitoring Solutions**: Grafana dashboards for real-time performance metrics
+- **Alert Systems**: Custom Telegram bots for instant notification of critical events
+- **Maintenance**: Daily health checks and performance optimization
+
+## 🔗 Active Mainnet Validators
 
 <div align="center">
   
-## MAINNET VALIDATOR
-
-[Dymension Mainnet Validator](https://dymension.explorers.guru/validator/dymvaloper1ngrdd47ngyfewld7djqs5p8xvas8znnpxv44hh) <br>
-[Ario Gateway Node](https://enzifiri.com/ar-io/healthcheck)
+| Network | Role | Link |
+|---------|------|------|
+| Dymension | Validator | [View Validator](https://dymension.explorers.guru/validator/dymvaloper1ngrdd47ngyfewld7djqs5p8xvas8znnpxv44hh) |
+| Ario | Gateway Node | [View Gateway](https://network-portal.app/#/gateways/tncUYUIOfIib-izqoGbVVO12LiZTjzh6YQYNenD2kH0) |
 
 </div>
+
+## 🌐 Testnet Experience
+
+Successfully deployed and managed **50+ testnet nodes** across multiple blockchain ecosystems, with particular expertise in:
+- **Cosmos Ecosystem**: Validator nodes, IBC relayers
+- **Layer 1 Solutions**: Sui, Arweave, Solana
+- **EVM Compatible Chains**: Ethereum testnets, sidechains, and rollups
+
+## 📱 Projects Portfolio
 
 <div align="center">
-  
-<h2> To date, I have set up more than 50 Testnet nodes. </h2>
+
+| Project | Type | Description | Link |
+|---------|------|-------------|------|
+| RollAPP Quest | dApp | Dymension RollApp | [rollapequest.com](https://rollapequest.com/) |
+| FroopyLand | Explorer | EVM chain block explorer | [froopyland.online](https://froopyland.online/) |
+| Arioland | Telegram Bot | Ar.io Gateway notifications | [t.me/arioland_bot](https://t.me/arioland_bot) |
+| FroopyLand | Telegram Bot | Chain monitoring alerts | [t.me/froopyland_bot](https://t.me/froopyland_bot) |
 
 </div>
 
-**Dymension (Froopyland Active Validator) Celestia (Mamaki Testnet), Stride, Sei, Stafi, Teritori, Rebus, Quicksilver, Gitopia, Quasar, Nibiru, Dymension RollAPP, 5ire, Dusk, Wormholes (Erbie), Sarco, Exorde, Taiko, Shardeum, Inery, and Opside(Lumoz).**
-
-<div align="center">
-
-## My Projects (dApp & Explorer & Bot)
-
-
-**Dymension RollAPP, FroopyLand Explorer (EVM CHAIN),Ar.io Gateway Notification Bot (Telegram), FroopyLand Notification Bot (Telegram)** <br>
-https://rollapequest.com/ https://froopyland.online/  https://t.me/arioland_bot https://t.me/froopyland_bot
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 <picture>
@@ -54,4 +77,9 @@ https://rollapequest.com/ https://froopyland.online/  https://t.me/arioland_bot 
   <img src="https://github-readme-stats.vercel.app/api?username=enzifiri&show_icons=true" />
 </picture>
 </div>
+
+---
+
+<div align="center">
+  <i>Let's build the decentralized future together!</i>
 </div>
