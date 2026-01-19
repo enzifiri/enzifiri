@@ -37,7 +37,7 @@ I maintain high-performance blockchain nodes on premium infrastructure:
   
 | Network | Role | Link |
 |---------|------|------|
-| Dymension | Validator | [View Validator](https://dymension.explorers.guru/validator/dymvaloper1ngrdd47ngyfewld7djqs5p8xvas8znnpxv44hh) |
+| Dymension | Validator | [View Validator](https://dymension.explorers.guru/validator/dymvaloper1xlnlh2uxsg3wl0skudqeeykkh4ku69jeaw6n9l) |
 | Ario | Gateway Node | [View Gateway](https://network-portal.app/#/gateways/tncUYUIOfIib-izqoGbVVO12LiZTjzh6YQYNenD2kH0) |
 
 </div>
