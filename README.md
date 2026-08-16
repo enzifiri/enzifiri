@@ -33,8 +33,8 @@ Currently, I'm developing a P2E (Play-to-Earn) game on **Dymension** and optimiz
 | **Kick Audio Only Mode** | `Extension` | Chrome extension for audio-only streaming of Kick broadcasts | [Kick Audio Only Extension](https://chromewebstore.google.com/detail/kick-audio-only-mode/lgamhckbhabhnlmecnklmkheaffhogkg) |
 | **Kozmetrik Skin Quiz** | `Web App` | Interactive skin type analysis application for cosmetics storefront | [ikas App Store](https://apps.ikas.com/tr/uygulama/8e2c31a7-4fdf-4d9a-9003-0aa794a0564a) |
 | **Metals Tracker** | `Bot / Script` | Telegram bot and TradingView script tracking Silver spot prices & Gold/Silver ratio | [Telegram Bot](https://t.me/@gumusnekadar_bot)|
-| **FroopyLand - RESUMED** | `Explorer` | EVM chain block explorer | [froopyland.online](https://froopyland.online/) |
-| **Arioland Bot - RESUMED** | `Bot` | Ar.io Gateway notifications via Telegram | [t.me/arioland_bot](https://t.me/arioland_bot) |
+| **FroopyLand - discontinued** | `Explorer` | EVM chain block explorer | [froopyland.online](https://froopyland.online/) |
+| **Arioland Bot - discontinued** | `Bot` | Ar.io Gateway notifications via Telegram | [t.me/arioland_bot](https://t.me/arioland_bot) |
 
 </div>
 
@@ -51,8 +51,8 @@ I maintain high-performance blockchain nodes on premium infrastructure (Hetzner,
   
 | Network | Role | Explorer Link |
 |---------|------|---------------|
-| **Dymension - RESUMED** | Validator | [View Validator](https://dymension.explorers.guru/validator/dymvaloper1xlnlh2uxsg3wl0skudqeeykkh4ku69jeaw6n9l) |
-| **Ario - RESUMED** | Gateway Node | [View Gateway](https://network-portal.app/#/gateways/tncUYUIOfIib-izqoGbVVO12LiZTjzh6YQYNenD2kH0) |
+| **Dymension - discontinued** | Validator | [View Validator](https://dymension.explorers.guru/validator/dymvaloper1xlnlh2uxsg3wl0skudqeeykkh4ku69jeaw6n9l) |
+| **Ario - discontinued** | Gateway Node | [View Gateway](https://network-portal.app/#/gateways/tncUYUIOfIib-izqoGbVVO12LiZTjzh6YQYNenD2kH0) |
 
 </div>
 
